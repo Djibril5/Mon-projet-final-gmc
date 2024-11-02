@@ -16,6 +16,8 @@ header{
       position: absolute;
       left: 50%;
       bottom: 0px;
+      width: 400px;
+      height: 400px;
 }
 .navigation{
       display: flex;
@@ -35,6 +37,7 @@ header{
       text-transform: uppercase;
       color: rgb(131,128,128);
       font-weight: bold;
+      cursor: pointer;
  }
  li a:hover{
       color: #f1f1f1;
